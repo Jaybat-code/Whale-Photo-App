@@ -1,2 +1,2 @@
 # Whale-Photo-App
-Whale Photo Application
+Whale Photo Applicadtion
